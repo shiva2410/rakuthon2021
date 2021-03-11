@@ -1,4 +1,4 @@
-# Minor-ML-in-Healthcare
+# Rakuthon-ML-in-Healthcare
 
 ## Overview
 Machine learning is used to discover patterns from from medical data sources and provide excellent capabilities to predict diseases. 
