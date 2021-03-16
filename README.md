@@ -21,6 +21,10 @@ We will be covering many different Diseases and ML/Deep Learning Models.
 - Skin Cancer Detection       -    Using Convolution Neural Network
 - Heart Disease Detection     -    Using Logistic Regression
 
-##Flowchart
+## Flowchart
 
 ![flowchart](https://user-images.githubusercontent.com/39915573/111311186-ea9e1b00-8683-11eb-9666-b96181125eef.png)
+
+## App Preview Video Demonstration
+
+https://youtu.be/43Zrw7AE5_8
