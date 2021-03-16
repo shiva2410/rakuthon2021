@@ -1,4 +1,4 @@
-# Rakuthon-ML-in-Healthcare
+# Rakathon-ML-in-Healthcare
 
 ## Overview
 Machine learning is used to discover patterns from from medical data sources and provide excellent capabilities to predict diseases. 
@@ -19,4 +19,4 @@ We will be covering many different Diseases and ML/Deep Learning Models.
 - Breast Cancer Prediction    -    Using Convolution Neural Network
 - Liver Disease               -    Using KMeans
 - Skin Cancer Detection       -    Using Convolution Neural Network
-= Heart Disease Detection     -    Using Logistic Regression
+- Heart Disease Detection     -    Using Logistic Regression
