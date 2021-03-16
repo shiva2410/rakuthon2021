@@ -20,3 +20,7 @@ We will be covering many different Diseases and ML/Deep Learning Models.
 - Liver Disease               -    Using KMeans
 - Skin Cancer Detection       -    Using Convolution Neural Network
 - Heart Disease Detection     -    Using Logistic Regression
+
+##Flowchart
+
+![flowchart](https://user-images.githubusercontent.com/39915573/111311186-ea9e1b00-8683-11eb-9666-b96181125eef.png)
